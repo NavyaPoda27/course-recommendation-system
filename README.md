@@ -20,6 +20,7 @@ Datasets used:
 - TF-IDF
 ## Sample Recommendation Output
 <img width="1738" height="502" alt="image" src="https://github.com/user-attachments/assets/0c38a74d-d28d-4406-b7bf-dba2bbf8b6f5" />
+
 ## Future Improvements
 - Streamlit Web App
 - Semantic Search
