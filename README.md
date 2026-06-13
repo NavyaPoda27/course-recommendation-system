@@ -18,15 +18,8 @@ Datasets used:
 - Scikit-Learn
 - NLP
 - TF-IDF
-## Sample Input
-Skills:Python, SQL
-Interest: Data Science
-Goal: Data Analyst
-## Sample Output
-1. IBM Data Analyst
-2. Google Data Analytics
-3. Data Science Methodology
-4. Python Project for Data Science
+## Sample Recommendation Output
+<img width="1738" height="502" alt="image" src="https://github.com/user-attachments/assets/0c38a74d-d28d-4406-b7bf-dba2bbf8b6f5" />
 ## Future Improvements
 - Streamlit Web App
 - Semantic Search
